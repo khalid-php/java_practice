@@ -6,7 +6,7 @@ import java.io.*;
 // 		System.out.println("Enter the array size");
 // 		int no=Integer.parseInt(br.readLine());
 // 		System.out.println("Enter the value");
-// 		int arr[]=new int arr[no];
+// 		int arr[]=new int [no];
 // 		for(int i=0;i<arr.length;i++) {
 // 			arr[i]=Integer.parseInt(br.readLine());
 // 		}

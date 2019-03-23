@@ -12,7 +12,7 @@ class CountArray {
 		}
 		int count=0;
 		for(String ch[]:abc) {
-		if()
+		
 		}
 	}
 }
