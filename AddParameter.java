@@ -11,4 +11,3 @@ class AddParameter {
 		double y=103.234;
 		ad.add(x,y);
 	}
-}
